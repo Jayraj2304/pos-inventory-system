@@ -28,7 +28,7 @@ The **POS (Point of Sale) with Inventory Management** system is a complete retai
 
 ## 🎬 Demo
 
-📹 **Video Walkthrough**: *Available upon request*
+📹 **Video Walkthrough**: [Watch on YouTube](https://youtu.be/7f1qxKQ9Uhk)
 
 The demo showcases:
 - Adding products and defining ingredient recipes
