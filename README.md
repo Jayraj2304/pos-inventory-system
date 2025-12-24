@@ -28,7 +28,7 @@ The **POS (Point of Sale) with Inventory Management** system is a complete retai
 
 ## 🎬 Demo
 
-📹 **Video Walkthrough**: [POS_SYSTEM_DEMO.mp4](./POS_SYSTEM_DEMO.mp4)
+📹 **Video Walkthrough**: *Available upon request*
 
 The demo showcases:
 - Adding products and defining ingredient recipes
@@ -178,8 +178,7 @@ POS/
 │   ├── server.js                    # Entry point
 │   └── package.json
 │
-├── README.md                    # Documentation
-└── POS_SYSTEM_DEMO.mp4          # Demo video
+└── README.md                    # Documentation
 ```
 
 ---
